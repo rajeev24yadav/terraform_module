@@ -1,0 +1,6 @@
+variable "meest" {
+
+}
+variable "subnets" {
+
+}

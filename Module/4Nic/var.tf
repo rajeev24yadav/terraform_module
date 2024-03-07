@@ -1,0 +1,3 @@
+variable "meest_nic" {
+  
+}
